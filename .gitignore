@@ -1,0 +1,13 @@
+# Debug/crash symbol info - not needed to ship, regenerated on each build
+SIENT_BurstDebugInformation_DoNotShip/
+*.pdb
+*_BackUpThisFolderBeforeDeletingSector0.dll
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/tooling junk
+*.log
+*.tmp

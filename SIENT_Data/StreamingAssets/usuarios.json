@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "nombreCompleto": "Ana Torres Gomez",
+            "correo": "admin@sient.com",
+            "contrasena": "Admin123",
+            "tipoUsuario": "AdministradorGeneral"
+        },
+        {
+            "nombreCompleto": "Luis Ramirez Diaz",
+            "correo": "supervisor@sient.com",
+            "contrasena": "Supervisor123",
+            "tipoUsuario": "Supervisor"
+        },
+        {
+            "nombreCompleto": "Marco Vega Solis",
+            "correo": "lider@sient.com",
+            "contrasena": "Lider123",
+            "tipoUsuario": "Lider"
+        }
+    ]
+}
